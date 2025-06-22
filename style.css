@@ -232,10 +232,10 @@ span{
         content: "Designer";
     }
     41%, 60% {
-        content: "Analyst";
+        content: "Video Editor";
     }
     61%, 100% {
-        content: "Video Editor";
+        content: "Developer";
     }
 }
 
